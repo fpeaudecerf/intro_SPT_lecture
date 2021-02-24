@@ -1,8 +1,6 @@
 # Introduction to single particle tracking with interactive simulations
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpeaudecerf/intro_SPT_lecture/HEAD?filepath=SPT_intro_notebook.ipynb) 
-
-[![DOI](https://zenodo.org/badge/341886563.svg)](https://zenodo.org/badge/latestdoi/341886563)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpeaudecerf/intro_SPT_lecture/HEAD?filepath=SPT_intro_notebook.ipynb) [![DOI](https://zenodo.org/badge/341886563.svg)](https://zenodo.org/badge/latestdoi/341886563)
 
 
 
