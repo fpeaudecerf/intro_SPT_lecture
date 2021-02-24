@@ -6,7 +6,8 @@ This repository contains a Jupyter notebook presenting some background on single
 * [Margit Peaudecerf](https://bc.biol.ethz.ch/research/weis/People2020/margit-peaudecerf.html)
 * [François Peaudecerf](https://n.ethz.ch/~fpeaudec/)
 
-Open this notebook in Binder by clicking the blue badge above or at the following URL:
+Open this notebook in Binder for direct interaction in an executable environment by clicking the blue badge above or at the following URL:
+
 https://mybinder.org/v2/gh/fpeaudecerf/intro_SPT_lecture/HEAD?filepath=SPT_intro_notebook.ipynb
 
 #### License
